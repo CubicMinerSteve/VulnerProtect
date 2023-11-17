@@ -1,0 +1,12 @@
+name: VulnerProtect
+main: code.cubicminer.vulnerprotect.VulnerProtect
+description: A simple plugin providing some protections to vulnerable blocks and entities.
+version: 0.0.1
+author: CubicMinerSteve
+authors: [CubicMinerSteve, WaftingScent]
+depend: []
+softdepend: []
+api-version: 1.13
+permissions:
+  vulnerprotect.admin:
+    description: Admin permission of this plugin.

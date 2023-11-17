@@ -1,0 +1,12 @@
+# ===============================================
+#
+# This is the configuration file of VulnerProtect
+#
+# ===============================================
+#
+# You can change your settings here!
+#
+Main-Settings: 
+  Plugin-Enabled: true
+  Message-Hint: false
+Whitelisted-World: []
